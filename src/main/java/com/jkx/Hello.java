@@ -16,5 +16,6 @@ public class Hello {
         System.out.println("hello, master updates");
         System.out.println("hello, hit-fox updates2");
         System.out.println("hello, master updates2");
+       int i= 10;
     }
 }
