@@ -14,5 +14,6 @@ public class Hello {
         System.out.println("hello, git second");
         System.out.println("hello, hit-fox updates");
         System.out.println("hello, master updates");
+        System.out.println("hello, hit-fox updates2");
     }
 }
